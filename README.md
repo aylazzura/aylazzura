@@ -69,6 +69,31 @@ I am currently preparing my first projects. Check back as I turn new ideas into 
 
 ---
 
+## 👾 My Contribution Arcade
+
+<div align="center">
+
+### 🚀 Galaga — Coding in Space
+
+*Turning my coding journey into an arcade adventure.*
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/aylazzura/aylazzura/output/galaga-contribution-graph-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/aylazzura/aylazzura/output/galaga-contribution-graph.svg">
+  <img
+    alt="Ayla's Galaga Contribution Graph"
+    src="https://raw.githubusercontent.com/aylazzura/aylazzura/output/galaga-contribution-graph.svg"
+    width="100%">
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 ### 💜 Design. Code. Create.
