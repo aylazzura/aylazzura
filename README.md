@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # AYLA AZZURA
@@ -11,6 +10,8 @@ Politeknik Negeri Lhokseumawe
 Building beautiful, responsive, and interactive web experiences.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aylazzura&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)
+
+[🌐 **Visit My Portfolio Website**](https://aylazzura.github.io/ayla-portfolio/) · [💻 View Source Code](https://github.com/aylazzura/ayla-portfolio)
 
 </div>
 
@@ -48,14 +49,14 @@ Building beautiful, responsive, and interactive web experiences.
 
 </div>
 
-I am currently preparing my first projects. Check back as I turn new ideas into working web applications.
+### 🌐 Personal Portfolio Website — First Project
 
-**Planned projects:**
-- 🌐 Personal Portfolio Website
-- 📝 To-Do List Web App
-- 🌦️ Weather Dashboard
+My first responsive portfolio website, built with HTML, CSS, and vanilla JavaScript. It introduces my background, current skills, and journey into Front-End Development.
 
-> These are planned projects, not completed projects. I will add their repositories here when they are ready.
+- **Live website:** [aylazzura.github.io/ayla-portfolio](https://aylazzura.github.io/ayla-portfolio/)
+- **Source code:** [aylazzura/ayla-portfolio](https://github.com/aylazzura/ayla-portfolio)
+
+**Next ideas:** To-Do List Web App and Weather Dashboard — planned projects that I have not built yet.
 
 ## 📊 GitHub Statistics
 
@@ -78,16 +79,9 @@ I am currently preparing my first projects. Check back as I turn new ideas into 
 *Turning my coding journey into an arcade adventure.*
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/aylazzura/aylazzura/output/galaga-contribution-graph-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/aylazzura/aylazzura/output/galaga-contribution-graph.svg">
-  <img
-    alt="Ayla's Galaga Contribution Graph"
-    src="https://raw.githubusercontent.com/aylazzura/aylazzura/output/galaga-contribution-graph.svg"
-    width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aylazzura/aylazzura/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aylazzura/aylazzura/output/galaga-contribution-graph.svg">
+  <img alt="Ayla's Galaga Contribution Graph" src="https://raw.githubusercontent.com/aylazzura/aylazzura/output/galaga-contribution-graph.svg" width="100%">
 </picture>
 
 </div>
