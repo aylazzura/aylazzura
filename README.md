@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# ✨ AYLA AZZURA
+# AYLA AZZURA
 
 ### Front-End Developer 💻
 
@@ -10,7 +10,7 @@ Politeknik Negeri Lhokseumawe
 
 Building beautiful, responsive, and interactive web experiences.
 
-![Profile Views](https://komarev.com/ghpvc/?username=aylazzura&style=for-the-badge&color=6366f1)
+![Profile Views](https://komarev.com/ghpvc/?username=aylazzura&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)
 
 </div>
 
@@ -18,29 +18,54 @@ Building beautiful, responsive, and interactive web experiences.
 
 ## 👩‍💻 About Me
 
-- 🎓 Studying Informatics Engineering at Politeknik Negeri Lhokseumawe.
-- 💜 Passionate about Front-End Development.
-- 🎨 Interested in modern UI/UX and responsive web design.
-- 🚀 Always learning, creating, and improving.
+- 🎓 Informatics Engineering student at Politeknik Negeri Lhokseumawe.
+- 💜 Focused on Front-End Development.
+- 🎨 Interested in UI/UX and responsive web design.
+- 🚀 Learning by building real-world projects.
 
 ## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
-## 🌐 What I Do
+## 🎯 Current Focus
 
-- Responsive Website Development
-- User Interface Implementation
-- Website Layout & Styling
-- Interactive Web Experiences
+- 📐 Improving responsive web design.
+- 🎨 Practicing modern UI implementation.
+- ⚡ Learning JavaScript through practical exercises.
+- 🌱 Preparing my first front-end portfolio projects.
 
-## 📌 Featured Projects
+## 🚀 Projects
 
-*My projects are coming soon. Stay tuned! ✨*
+<div align="center">
+
+*My portfolio journey starts here.*
+
+</div>
+
+I am currently preparing my first projects. Check back as I turn new ideas into working web applications.
+
+**Planned projects:**
+- 🌐 Personal Portfolio Website
+- 📝 To-Do List Web App
+- 🌦️ Weather Dashboard
+
+> These are planned projects, not completed projects. I will add their repositories here when they are ready.
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aylazzura&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylazzura&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</div>
 
 ---
 
@@ -48,6 +73,6 @@ Building beautiful, responsive, and interactive web experiences.
 
 ### 💜 Design. Code. Create.
 
-*Thanks for visiting my profile!*
+*Always learning. Always building.*
 
 </div>
