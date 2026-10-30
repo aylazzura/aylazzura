@@ -42,7 +42,7 @@
 - Front-End Development
 - HTML, CSS & JavaScript
 - Responsive Web Development
-- UI/UX Fundamentals
+- Exploring UI/UX Design
 
 ---
 
@@ -51,6 +51,8 @@
 <div align="center">
 
 ### 🌐 Personal Portfolio Website
+
+A personal website built with HTML, CSS, and JavaScript.
 
 <a href="https://aylazzura.github.io/ayla-portfolio/">
 <img src="https://img.shields.io/badge/LIVE_DEMO-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
@@ -126,7 +128,7 @@
   <img src="https://raw.githubusercontent.com/aylazzura/aylazzura/output/bomberman-contribution-graph.svg" width="100%" alt="Bomberman Arcade"/>
 </picture>
 
-<br>
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=450&lines=GAME+ON!;CODE+MORE.+DREAM+MORE." alt="Arcade Footer"/>
 
