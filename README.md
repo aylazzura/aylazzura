@@ -1,15 +1,17 @@
 
-<!-- HEADER -->
+<!-- ================= HEADER ================= -->
+
 <div align="left">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=6366F1&vCenter=true&width=650&lines=Hi%2C+I'm+Ayla+Azzura+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG"/>
 
 </div>
 
-<!-- INTRODUCTION -->
+<!-- ================= INTRODUCTION ================= -->
+
 <img align="right" src="./ayla-coding-laptop.gif" width="320" alt="Ayla coding animation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B7CF6&vCenter=true&width=600&lines=Informatics+Engineering+Student+%F0%9F%92%BB;Front-End+Developer;Always+Learning+New+Things+%E2%9C%A8" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B7CF6&vCenter=true&width=600&lines=Informatics+Engineering+Student+%F0%9F%92%BB;Front-End+Developer;Learning+and+Building+New+Things+%E2%9C%A8" alt="Animated Introduction"/>
 
 <br><br>
 
@@ -78,11 +80,17 @@
 
 ---
 
-## 🐍 GitHub Contribution Activity
+## 🚀 Galaga — Coding in Space
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aylazzura/aylazzura/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+*Turning my coding journey into an arcade adventure.*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aylazzura/aylazzura/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aylazzura/aylazzura/output/galaga-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/aylazzura/aylazzura/output/galaga-contribution-graph.svg" width="100%" alt="Galaga Contribution Animation"/>
+</picture>
 
 </div>
 
@@ -100,7 +108,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B7CF6&center=true&vCenter=true&width=500&lines=Keep+Learning+%F0%9F%92%9C;Keep+Building+%F0%9F%9A%80;Keep+Growing+%E2%9C%A8" alt="Footer animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B7CF6&center=true&vCenter=true&width=500&lines=Keep+Learning+%F0%9F%92%9C;Keep+Building+%F0%9F%9A%80;Keep+Growing+%E2%9C%A8" alt="Footer Animation"/>
 
 <br><br>
 
