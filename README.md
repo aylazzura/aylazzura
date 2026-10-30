@@ -1,38 +1,24 @@
 
-<h1 align="left">Hi, I'm Ayla! 👋</h1>
+<div align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=36BCF7&vCenter=true&width=600&lines=Hi%2C+I'm+Ayla+Azzura+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG"/>
+</div>
 
-<hr>
-
-<table>
-<tr>
-<td width="65%" valign="top">
+<img align="right" src="./ayla-coding-laptop.gif" width="320" alt="Coding animation"/>
 
 <br>
 
-<i>Informatics Engineering Student at Politeknik Negeri Lhokseumawe 💻</i>
-
-<br><br>
-
-<i>Front-End Developer | Learning UI/UX 🎨</i>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=8B7CF6&vCenter=true&width=600&lines=Informatics+Engineering+Student+%F0%9F%92%BB;Front-End+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%E2%9C%A8" alt="Animated Role"/>
 
 <br><br>
 
 <a href="https://github.com/aylazzura">
-<img src="https://img.shields.io/badge/aylazzura-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-aylazzura-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 <a href="https://github.com/aylazzura?tab=followers">
-<img src="https://img.shields.io/github/followers/aylazzura?style=flat-square&label=Followers" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/aylazzura?style=flat-square&label=Followers"/>
 </a>
 
-</td>
-
-<td width="35%" align="center" valign="middle">
-
-<img src="./ayla-coding-laptop.gif" width="300" alt="Ayla coding animation"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <br>
 
@@ -41,47 +27,5 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<br><br>
-
-<a href="https://aylazzura.github.io/ayla-portfolio/">
-<img src="https://img.shields.io/badge/MY_PORTFOLIO-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/aylazzura">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark"/>
-
-</div>
-
----
-
-## 🚀 Featured Project
-
-<div align="center">
-
-**Personal Portfolio Website**
-
-<a href="https://aylazzura.github.io/ayla-portfolio/">View Live Website ↗</a>
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=aylazzura&style=for-the-badge&color=6366f1)
-
-**Always Learning, Always Growing 💜**
 
 </div>
