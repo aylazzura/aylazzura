@@ -1,5 +1,5 @@
 
-name: Generate Galaga Contribution Graph
+name: Ayla Cosmic Arcade
 
 on:
   schedule:
@@ -18,13 +18,14 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: Generate Galaga animation
+      - name: Generate Cosmic Arcade
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
-          games: 'galaga'
+          github_user_name: aylazzura
+          games: 'galaga,breakout,puzzle-bobble,bomberman'
+          hide_month_labels: 'false'
 
-      - name: Publish animation
+      - name: Publish Cosmic Arcade
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
