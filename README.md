@@ -42,7 +42,7 @@
 - Front-End Development
 - HTML, CSS & JavaScript
 - Responsive Web Development
-- Exploring UI/UX Design
+- Building Interactive Websites
 
 ---
 
