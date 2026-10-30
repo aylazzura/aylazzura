@@ -13,7 +13,6 @@
 
 **Politeknik Negeri Lhokseumawe**
 
-Halo! Aku Ayla, sedang belajar Front-End Development dan membangun website menggunakan HTML, CSS, dan JavaScript.
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
