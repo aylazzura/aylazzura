@@ -16,6 +16,7 @@
 <a href="https://github.com/aylazzura">
 <img src="https://img.shields.io/badge/GitHub-aylazzura-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://github.com/aylazzura?tab=followers">
 <img src="https://img.shields.io/github/followers/aylazzura?style=flat-square&label=Followers"/>
 </a>
@@ -24,7 +25,6 @@
 
 ---
 
-<!-- TECH STACK -->
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -35,7 +35,6 @@
 
 ---
 
-<!-- CURRENT FOCUS -->
 ## 🎯 Currently Learning
 
 - Front-End Development
@@ -45,14 +44,11 @@
 
 ---
 
-<!-- PROJECTS -->
 ## 🚀 Featured Projects
 
+<div align="center">
+
 ### 🌐 Personal Portfolio Website
-
-My personal website built with HTML, CSS, and JavaScript.
-
-<div align="left">
 
 <a href="https://aylazzura.github.io/ayla-portfolio/">
 <img src="https://img.shields.io/badge/LIVE_DEMO-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
@@ -66,7 +62,6 @@ My personal website built with HTML, CSS, and JavaScript.
 
 ---
 
-<!-- GITHUB STATS -->
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -83,8 +78,17 @@ My personal website built with HTML, CSS, and JavaScript.
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
-## 🐍 Contribution Activity
+## 🐍 GitHub Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aylazzura/aylazzura/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -94,7 +98,6 @@ My personal website built with HTML, CSS, and JavaScript.
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B7CF6&center=true&vCenter=true&width=500&lines=Keep+Learning+%F0%9F%92%9C;Keep+Building+%F0%9F%9A%80;Keep+Growing+%E2%9C%A8" alt="Footer animation"/>
