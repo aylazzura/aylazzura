@@ -1,90 +1,96 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=700&lines=HELLO%2C+I'M+AYLA+AZZURA;FRONT-END+DEVELOPER;LEARNING+%E2%80%A2+BUILDING+%E2%80%A2+GROWING" alt="Typing Introduction"/>
-
-# ✨ AYLA AZZURA
-
-### Front-End Developer 💻
-
-**Informatics Engineering Student**  
-Politeknik Negeri Lhokseumawe
-
-Halo! Aku Ayla. Aku tertarik dengan dunia Front-End Development, UI/UX, dan proses mengubah ide menjadi website yang menarik, responsif, serta nyaman digunakan.
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<p>
-  <a href="https://github.com/aylazzura">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://aylazzura.github.io/ayla-portfolio/">
-    <img src="https://img.shields.io/badge/My_Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=aylazzura&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
+# AYLA AZZURA
 
 </div>
+
+<table>
+<tr>
+<td width="60%" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=25&duration=2800&pause=900&color=6366F1&vCenter=true&width=480&lines=Front-End+Developer;Learning+HTML%2C+CSS+%26+JavaScript;Building+Creative+Web+Experiences" alt="Animated introduction"/>
+
+### 💻 Informatics Engineering Student
+
+**Politeknik Negeri Lhokseumawe**
+
+Halo! Aku Ayla, mahasiswa Teknik Informatika yang tertarik dengan Front-End Development, UI/UX, dan pengembangan website yang menarik, responsif, serta mudah digunakan.
+
+**Currently learning:** HTML · CSS · JavaScript
+
+<p>
+<a href="https://github.com/aylazzura">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://aylazzura.github.io/ayla-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+</p>
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnB2bGJ3c284cjlucXlpZnZvMHQxZTVqMGVyNGVqYmljbmxrbXR1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H82wjp90lPC3ZwPPAl/giphy.gif" width="100%" alt="Developer coding animation"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Mahasiswa Teknik Informatika di Politeknik Negeri Lhokseumawe.
-- 💜 Fokus belajar Front-End Development.
-- 🎨 Tertarik dengan UI/UX dan responsive web design.
-- 🚀 Suka mencoba hal baru dan mengembangkan kemampuan coding.
-- 🌱 Currently learning and improving my skills.
+- 🎓 Informatics Engineering student at Politeknik Negeri Lhokseumawe.
+- 💜 Interested in Front-End Development.
+- 🎨 Exploring UI/UX and responsive web design.
+- 🚀 Learning by building practical projects.
+- 🌱 Always improving my programming skills.
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="Tech Stack"/>
-
-</div>
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
 ## 🎯 Current Focus
 
-- 📐 Improving responsive web design.
-- 🎨 Exploring modern UI/UX.
-- ⚡ Practicing JavaScript.
-- 💻 Building my first front-end projects.
+| Focus | Description |
+|---|---|
+| 🌐 HTML | Semantic structure and accessibility |
+| 🎨 CSS | Responsive layouts and modern design |
+| ⚡ JavaScript | DOM manipulation and interactivity |
+| 💻 UI/UX | Creating user-friendly interfaces |
 
 ## 🚀 Featured Project
 
-<div align="center">
+### Personal Portfolio Website
 
-### 🌐 Personal Portfolio Website
+My first personal portfolio website, developed using HTML, CSS, and vanilla JavaScript.
 
-A personal website built with HTML, CSS, and JavaScript.
-
-<a href="https://aylazzura.github.io/ayla-portfolio/">
-  <img src="https://img.shields.io/badge/VIEW_LIVE_WEBSITE-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/aylazzura/ayla-portfolio">
-  <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+- 🌐 **Live Website:** [Visit Portfolio](https://aylazzura.github.io/ayla-portfolio/)
+- 💻 **Source Code:** [GitHub Repository](https://github.com/aylazzura/ayla-portfolio)
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aylazzura&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aylazzura&theme=tokyonight&hide_border=true" width="90%" alt="GitHub Contribution Streak"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylazzura&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
 
-<br/>
+## 👾 Contribution Arcade
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=aylazzura&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<div align="center">
+
+### 🚀 Galaga Coding Adventure
+
+<img src="https://raw.githubusercontent.com/aylazzura/aylazzura/output/galaga-contribution-graph.svg" width="100%" alt="Galaga Contribution Graph"/>
 
 </div>
 
@@ -94,8 +100,8 @@ A personal website built with HTML, CSS, and JavaScript.
 
 ### 💜 Design. Code. Create.
 
-*Pelan-pelan belajar, konsisten berkarya, dan terus berkembang.*
+*Always learning. Always building.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=aylazzura&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
