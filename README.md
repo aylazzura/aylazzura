@@ -80,17 +80,55 @@
 
 ---
 
-## 🚀 Galaga — Coding in Space
+## 🌌 AYLA'S COSMIC ARCADE
 
 <div align="center">
 
-*Turning my coding journey into an arcade adventure.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=READY+PLAYER+ONE%3F;WELCOME+TO+MY+CODING+UNIVERSE;LET'S+PLAY+WITH+CONTRIBUTIONS!" alt="Arcade Intro"/>
+
+<br>
+
+### 🚀 GALAGA — Cosmic Defender
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aylazzura/aylazzura/output/galaga-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aylazzura/aylazzura/output/galaga-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/aylazzura/aylazzura/output/galaga-contribution-graph.svg" width="100%" alt="Galaga Contribution Animation"/>
+  <img src="https://raw.githubusercontent.com/aylazzura/aylazzura/output/galaga-contribution-graph.svg" width="100%" alt="Galaga Arcade"/>
 </picture>
+
+<br>
+
+### 🪐 BREAKOUT — Cosmic Blocks
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aylazzura/aylazzura/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aylazzura/aylazzura/output/breakout-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/aylazzura/aylazzura/output/breakout-contribution-graph.svg" width="100%" alt="Breakout Arcade"/>
+</picture>
+
+<br>
+
+### 💫 PUZZLE BOBBLE — Bubble Blast
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aylazzura/aylazzura/output/puzzle-bobble-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aylazzura/aylazzura/output/puzzle-bobble-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/aylazzura/aylazzura/output/puzzle-bobble-contribution-graph.svg" width="100%" alt="Puzzle Bobble Arcade"/>
+</picture>
+
+<br>
+
+### 💣 BOMBERMAN — Space Explosion
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aylazzura/aylazzura/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aylazzura/aylazzura/output/bomberman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/aylazzura/aylazzura/output/bomberman-contribution-graph.svg" width="100%" alt="Bomberman Arcade"/>
+</picture>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=450&lines=GAME+ON!;CODE+MORE.+DREAM+MORE." alt="Arcade Footer"/>
 
 </div>
 
