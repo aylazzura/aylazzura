@@ -1,37 +1,37 @@
 
 <div align="center">
 
-# ✨ AYLA AZZURA
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:2563EB,50:6366F1,100:A855F7&text=AYLA%20AZZURA&fontColor=FFFFFF&fontSize=55&fontAlignY=45&animation=fadeIn&desc=INFORMATICS%20ENGINEERING%20STUDENT%20%7C%20FRONT-END%20DEVELOPER&descSize=14&descAlignY=65" width="100%" alt="Ayla profile banner"/>
 
 </div>
 
 <table>
 <tr>
-<td width="60%" valign="middle">
+<td width="58%" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=25&duration=2800&pause=900&color=6366F1&vCenter=true&width=480&lines=Front-End+Developer;Learning+HTML%2C+CSS+%26+JavaScript;Building+Creative+Web+Experiences" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2500&pause=900&color=6366F1&vCenter=true&width=450&lines=Hello%2C+I'm+Ayla!;Learning+Front-End+Development;Turning+Ideas+Into+Websites;Keep+Learning%2C+Keep+Building!" alt="Typing animation"/>
 
 ### 💻 Informatics Engineering Student
 
 **Politeknik Negeri Lhokseumawe**
 
-Halo! Aku Ayla, mahasiswa Teknik Informatika yang tertarik dengan Front-End Development, UI/UX, dan proses mengubah ide menjadi website yang menarik, responsif, serta nyaman digunakan.
+Halo! Aku Ayla, mahasiswa Teknik Informatika yang sedang mengembangkan kemampuan di bidang Front-End Development. Aku senang mempelajari teknologi web, mencoba hal baru, dan membangun website dari ide sederhana menjadi sesuatu yang bisa digunakan.
 
-**Currently learning:** HTML · CSS · JavaScript
+**My coding journey starts with curiosity and creativity.**
 
 <p>
 <a href="https://github.com/aylazzura">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://aylazzura.github.io/ayla-portfolio/">
-<img src="https://img.shields.io/badge/My_Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 </p>
 
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="42%" align="center" valign="middle">
 
-<img src="./assets/ayla-coding-laptop.gif" width="100%" alt="Ayla animated coding laptop"/>
+<img src="./assets/ayla-coding-laptop.gif" width="100%" alt="Ayla coding laptop animation"/>
 
 </td>
 </tr>
@@ -39,68 +39,107 @@ Halo! Aku Ayla, mahasiswa Teknik Informatika yang tertarik dengan Front-End Deve
 
 ---
 
-## 👩‍💻 About Me
+## ✦ ABOUT ME
 
-- 🎓 Mahasiswa Teknik Informatika di Politeknik Negeri Lhokseumawe.
-- 💜 Fokus belajar Front-End Development.
-- 🎨 Tertarik dengan UI/UX dan responsive web design.
-- 🚀 Suka mencoba hal baru dan mengembangkan kemampuan coding.
-- 🌱 Currently learning and improving my skills.
+- 🎓 Informatics Engineering Student at Politeknik Negeri Lhokseumawe.
+- 💻 Currently exploring Front-End Development.
+- 🌐 Interested in creating responsive websites.
+- ⚡ Enjoy learning JavaScript and web technologies.
+- 🌱 Always curious about new things and new challenges.
 
-## 🛠️ Tech Stack
+## ✦ MY TECHNOLOGIES
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+<div align="center">
 
-## 🎯 Current Focus
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="Technology icons"/>
 
-| Focus | Description |
-|---|---|
-| 🌐 HTML | Semantic structure and accessibility |
-| 🎨 CSS | Responsive layouts and modern design |
-| ⚡ JavaScript | DOM manipulation and interactivity |
-| 💻 UI/UX | Creating user-friendly interfaces |
+</div>
 
-## 🚀 Featured Project
+## ✦ CURRENT LEARNING JOURNEY
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🌐 HTML
+
+Learning
+
+Building website structures and semantic elements.
+
+</td>
+<td width="33%" align="center">
+
+### 🎨 CSS
+
+Learning
+
+Exploring layouts, styling, and responsive design.
+
+</td>
+<td width="33%" align="center">
+
+### ⚡ JavaScript
+
+Learning
+
+Practicing programming logic and website interactions.
+
+</td>
+</tr>
+</table>
+
+## ✦ FEATURED PROJECT
+
+<div align="center">
 
 ### 🌐 Personal Portfolio Website
 
-Website portfolio pribadi yang dibuat menggunakan HTML, CSS, dan JavaScript murni.
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-22C55E?style=for-the-badge"/>
 
-- **Live Website:** [Visit My Portfolio](https://aylazzura.github.io/ayla-portfolio/)
-- **Source Code:** [GitHub Repository](https://github.com/aylazzura/ayla-portfolio)
+</div>
 
----
-
-## 📊 GitHub Statistics
+My first personal website, built from scratch using HTML, CSS, and vanilla JavaScript. This project introduces who I am, the technologies I am learning, and my journey into web development.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aylazzura&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<a href="https://aylazzura.github.io/ayla-portfolio/">
+<img src="https://img.shields.io/badge/VIEW_LIVE_WEBSITE-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylazzura&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<a href="https://github.com/aylazzura/ayla-portfolio">
+<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+## ✦ GITHUB STATISTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aylazzura&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylazzura&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
 <br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=aylazzura&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=aylazzura&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 
 </div>
 
----
-
-## 💜 Let's Connect!
+## ✦ MY DEVELOPER MOTTO
 
 <div align="center">
 
-**Design. Code. Create.**
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1200&color=818CF8&center=true&vCenter=true&width=550&lines=Dream+Big.+Start+Small.;Code.+Learn.+Improve.;Every+Line+of+Code+Matters." alt="Developer motto"/>
+
+<br/>
+
+**💜 Design. Code. Create.**
 
 *Always learning. Always building.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=aylazzura&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=aylazzura&style=for-the-badge&color=6366f1&label=PROFILE+VISITORS" alt="Profile visitors"/>
 
 </div>
+
