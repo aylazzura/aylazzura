@@ -21,17 +21,18 @@ Halo! Aku Ayla, mahasiswa Teknik Informatika yang sedang mengembangkan kemampuan
 
 <p>
 <a href="https://github.com/aylazzura">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://aylazzura.github.io/ayla-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 </p>
 
 </td>
+
 <td width="42%" align="center" valign="middle">
 
-<img src="./assets/ayla-coding-laptop.gif" width="100%" alt="Ayla coding laptop animation"/>
+<img src="./ayla-coding-laptop.gif" width="100%" alt="Ayla animated coding laptop"/>
 
 </td>
 </tr>
@@ -63,7 +64,7 @@ Halo! Aku Ayla, mahasiswa Teknik Informatika yang sedang mengembangkan kemampuan
 
 ### 🌐 HTML
 
-Learning
+**Learning**
 
 Building website structures and semantic elements.
 
@@ -72,7 +73,7 @@ Building website structures and semantic elements.
 
 ### 🎨 CSS
 
-Learning
+**Learning**
 
 Exploring layouts, styling, and responsive design.
 
@@ -81,7 +82,7 @@ Exploring layouts, styling, and responsive design.
 
 ### ⚡ JavaScript
 
-Learning
+**Learning**
 
 Practicing programming logic and website interactions.
 
@@ -95,7 +96,7 @@ Practicing programming logic and website interactions.
 
 ### 🌐 Personal Portfolio Website
 
-<img src="https://img.shields.io/badge/STATUS-COMPLETED-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-22C55E?style=for-the-badge" alt="Project status"/>
 
 </div>
 
@@ -104,14 +105,16 @@ My first personal website, built from scratch using HTML, CSS, and vanilla JavaS
 <div align="center">
 
 <a href="https://aylazzura.github.io/ayla-portfolio/">
-<img src="https://img.shields.io/badge/VIEW_LIVE_WEBSITE-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_LIVE_WEBSITE-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live website"/>
 </a>
 
 <a href="https://github.com/aylazzura/ayla-portfolio">
-<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/>
 </a>
 
 </div>
+
+---
 
 ## ✦ GITHUB STATISTICS
 
@@ -119,13 +122,15 @@ My first personal website, built from scratch using HTML, CSS, and vanilla JavaS
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aylazzura&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylazzura&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylazzura&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 <br/>
 
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=aylazzura&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=aylazzura&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
+
+---
 
 ## ✦ MY DEVELOPER MOTTO
 
@@ -135,11 +140,10 @@ My first personal website, built from scratch using HTML, CSS, and vanilla JavaS
 
 <br/>
 
-**💜 Design. Code. Create.**
+### 💜 Design. Code. Create.
 
 *Always learning. Always building.*
 
 <img src="https://komarev.com/ghpvc/?username=aylazzura&style=for-the-badge&color=6366f1&label=PROFILE+VISITORS" alt="Profile visitors"/>
 
 </div>
-
